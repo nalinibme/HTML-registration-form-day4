@@ -1,0 +1,13 @@
+#flex-container{
+    display: flex;
+}
+#side{
+    flex: 30%;
+    background-color: #d5ff80;
+    text-align: center;
+}
+#main{
+    flex:70%;
+    background-color: #99ff99;
+    text-align: center;
+}
